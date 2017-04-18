@@ -1,0 +1,41 @@
+An increasing number of people are opting for more healthful alternatives to sugar, and stevia has become a popular choice, particularly among people with diabetes. Studies have suggested that the natural, no-calorie sweetener can help to control blood sugar levels, although exactly how it achieves this has been unclear - until now.
+[Stevia leaf and a teaspoon of stevia]
+Researchers have discovered how stevia may help to control blood sugar levels.
+
+Researchers from the United Kingdom and Belgium have found that stevia activates a protein called TRPM5, which is associated with taste perception. This protein also plays a role in the release of the hormone insulin after eating.
+
+Study co-author Koenraad Philippaert, of the Department of Cellular and Molecular Medicine at KU Leuven in Belgium, and colleagues say that their findings could open the door to new treatments for type 2 diabetes.
+
+The researchers recently reported their results in the journal Nature Communications.
+
+Stevia is a sweetener derived from the leaves of the Stevia rebaudiana plant - commonly known as sweetleaf - which is native to South America.
+
+Stevia is around 200 to 400 times sweeter than table sugar, and it is often used as a sugar substitute in diet soda, candy, yogurts, desserts, and other foods and beverages.
+Stevia targets protein responsible for sweet taste, insulin secretion
+
+The plant-based sweetener is generally considered safe for people with diabetes in moderation, and previous research has indicated that stevia may even help to control blood sugar levels.
+
+The mechanisms underlying stevia's positive effect on blood sugar levels have, however, not been well-understood. The new study from Philippaert and colleagues aimed to shed some light.
+
+In experiments involving cell cultures, the researchers found that stevia activates TRPM5, which is a protein important for the perception of sweet, bitter, and umami tastes.
+
+"The taste sensation is made even stronger by the stevia component steviol, which stimulates TRPM5. This explains the extremely sweet flavor of stevia as well as its bitter aftertaste," notes Philippaert.
+
+Furthermore, TRPM5 prompts the beta cells of the pancreas to release insulin after food intake. This helps to regulate blood sugar levels and prevents the development of type 2 diabetes.
+
+Type 2 diabetes is a condition whereby the pancreas does not produce enough insulin, or the body is unable to effectively use the hormone. An unhealthful diet is a common cause of type 2 diabetes.
+Stevia did not prevent diabetes in mice lacking TRPM5
+
+To confirm the role of stevia in TRPM5 stimulation, the researchers carried out experiments in mice.
+
+The mice were fed a high-fat diet over a long period in order to prompt the development of type 2 diabetes.
+
+However, when the high-fat diet was supplemented with a daily dose of stevioside - an active component of stevia - the researchers found that the rodents did not develop type 2 diabetes. This was not the case for mice that lacked the TRPM5 protein.
+
+"This indicates that the protection against abnormally high blood sugar levels and diabetes is due to the stimulation of TRPM5 with stevia components," says study co-author Prof. Rudi Vennekens, also of the Department of Cellular and Molecular Medicine at KU Leuven.
+
+The researchers say that their findings may lead to new strategies to treat or even prevent type 2 diabetes, although they caution that more research is required before that becomes a reality.
+
+"This is fundamental research, and there is still a long way to go before we can think of new treatments for diabetes," says Philippaert. "For one thing, the dosages that the mice received are much higher than the amount of stevioside found in beverages and other products for human consumption."
+
+"Further research is necessary in order to show if our findings readily apply to humans. All this means [is] that new treatments for diabetes will not be for the very near future." 
